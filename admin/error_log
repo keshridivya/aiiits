@@ -1,0 +1,29 @@
+[18-Jan-2023 06:05:43 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '11.102.0.24' (110) in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 2
+[18-Jan-2023 06:07:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '11.102.0.24' (110) in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 2
+[18-Jan-2023 06:07:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 12
+[18-Jan-2023 06:09:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '11.102.0.24' (110) in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 2
+[18-Jan-2023 06:09:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 12
+[18-Jan-2023 06:10:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '11.102.0.24' (110) in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 2
+[18-Jan-2023 06:17:50 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '11.102.0.24' (110) in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 2
+[18-Jan-2023 06:17:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 12
+[18-Jan-2023 06:54:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '11.102.0.24' (110) in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 2
+[18-Jan-2023 06:55:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '11.102.0.24' (110) in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 2
+[18-Jan-2023 06:55:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 12
+[18-Jan-2023 06:57:49 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '11.102.0.24' (110) in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 2
+[18-Jan-2023 06:57:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 12
+[18-Jan-2023 07:31:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 4
+[18-Jan-2023 10:46:01 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 6
+[18-Jan-2023 10:46:01 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 7
+[18-Jan-2023 10:49:27 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 6
+[18-Jan-2023 10:49:27 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/blog.php on line 7
+[09-Feb-2023 05:56:47 UTC] PHP Notice:  Undefined index: courseimg in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 9
+[09-Feb-2023 05:56:47 UTC] PHP Notice:  Undefined index: tmp_courseimg in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 10
+[09-Feb-2023 05:56:47 UTC] PHP Notice:  Undefined variable: tmp_file in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 12
+[09-Feb-2023 05:56:47 UTC] PHP Notice:  Undefined variable: file in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 12
+[09-Feb-2023 06:01:57 UTC] PHP Notice:  Undefined variable: file in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 12
+[09-Feb-2023 06:01:57 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 12
+[09-Feb-2023 06:01:57 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmOwcOx' to '../assets/img/course/' in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 12
+[09-Feb-2023 06:03:51 UTC] PHP Notice:  Undefined variable: file in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 12
+[09-Feb-2023 06:03:51 UTC] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 12
+[09-Feb-2023 06:03:51 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOjmtGY' to '../assets/img/course/' in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 12
+[09-Feb-2023 06:05:32 UTC] PHP Notice:  Undefined variable: tmp_courseimg in /home/du37v3eb72p0/public_html/aiiits.omsaifoodservices.com/admin/course.php on line 12
